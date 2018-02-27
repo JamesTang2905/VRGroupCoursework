@@ -7,3 +7,7 @@ Also have a link to the google drive: https://drive.google.com/open?id=1kiutsvac
 If you need access to the files, please message the group chat with your email address so I can add you to the collaborators list, thank you. Love you all,
 
 James T
+
+PS
+
+владимир владимирович путин сука блять
