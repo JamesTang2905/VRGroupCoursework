@@ -7,3 +7,9 @@ Also have a link to the google drive: https://drive.google.com/open?id=1kiutsvac
 If you need access to the files, please message the group chat with your email address so I can add you to the collaborators list, thank you. Love you all,
 
 James T
+
+PS
+
+владимир владимирович путин сука блять
+
+安德魯斯不會隨意放入俄語句子，這會讓我們陷入麻煩中，讓你啞巴
