@@ -70,7 +70,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 492}
   m_MaxSize: {x: 10004, y: 14042}
   vertical: 1
-  controlID: 10
+  controlID: 78
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -164,7 +164,7 @@ MonoBehaviour:
   m_MinSize: {x: 713, y: 492}
   m_MaxSize: {x: 18008, y: 14042}
   vertical: 0
-  controlID: 88
+  controlID: 37
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -380,8 +380,7 @@ MonoBehaviour:
     m_ScenePaths: []
     m_ShowAllHits: 0
     m_SearchArea: 0
-    m_Folders:
-    - Assets
+    m_Folders: []
   m_ViewMode: 0
   m_StartGridSize: 64
   m_LastFolders: []
@@ -586,9 +585,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -15.555232, y: 15.234868, z: 81.34961}
+    m_Target: {x: 3.2668855, y: -61.67353, z: -82.217995}
     speed: 2
-    m_Value: {x: -15.555232, y: 15.234868, z: 81.34961}
+    m_Value: {x: 3.2668855, y: -61.67353, z: -82.217995}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -612,13 +611,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.040065445, y: 0.07491113, z: 0.0030121352, w: -0.99638045}
+    m_Target: {x: 0.0034536084, y: 0.9414274, z: -0.33706015, w: 0.009645399}
     speed: 2
-    m_Value: {x: 0.040065445, y: 0.07491113, z: 0.0030121352, w: -0.99638045}
+    m_Value: {x: 0.0034536084, y: 0.9414274, z: -0.33706015, w: 0.009645399}
   m_Size:
-    m_Target: 80.39822
+    m_Target: 125.82118
     speed: 2
-    m_Value: 80.39822
+    m_Value: 125.82118
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -659,9 +658,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 042a0000
+    m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 1eeaffff86fbffff00000000
+    m_ExpandedIDs: 34f6ffff86fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -680,7 +679,7 @@ MonoBehaviour:
       m_ClientGUIView: {fileID: 4}
     m_SearchString: 
   m_ExpandedScenes:
-  - scene1
+  - Hub World
   m_CurrenRootInstanceID: 0
   m_Locked: 0
   m_CurrentSortingName: TransformSorting
