@@ -10,6 +10,8 @@ James T
 
 PS
 
+For now, just because the unity collab feature sucks ass, just fork a copy/clone this repo and then either make a pull request or send the files to me. So I can merge it into the world. Thanks, <3 James Tang.
+
 владимир владимирович путин сука блять
 
 安德魯斯不會隨意放入俄語句子，這會讓我們陷入麻煩中，讓你啞巴
