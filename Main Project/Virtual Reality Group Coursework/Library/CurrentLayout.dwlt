@@ -70,7 +70,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 492}
   m_MaxSize: {x: 10004, y: 14042}
   vertical: 1
-  controlID: 50
+  controlID: 94
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -89,8 +89,8 @@ MonoBehaviour:
     y: 0
     width: 355
     height: 398
-  m_MinSize: {x: 204, y: 221}
-  m_MaxSize: {x: 4004, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -164,7 +164,7 @@ MonoBehaviour:
   m_MinSize: {x: 713, y: 492}
   m_MaxSize: {x: 18008, y: 14042}
   vertical: 0
-  controlID: 9
+  controlID: 26
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -522,7 +522,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 1
+    m_EnableMouseInput: 0
     m_EnableSliderZoom: 0
     m_UniformScale: 1
     m_UpDirection: 1
@@ -580,14 +580,14 @@ MonoBehaviour:
     height: 746
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
-  lastFramingTime: 13538.763532180377
+  lastFramingTime: 1335.8997632310836
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -367.87936, y: -1078.8076, z: 1171.2399}
+    m_Target: {x: 621.8486, y: 13.229858, z: 1081.4733}
     speed: 2
-    m_Value: {x: -367.87936, y: -1078.8076, z: 1171.2399}
+    m_Value: {x: 621.8486, y: 13.229858, z: 1081.4733}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -611,13 +611,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.34440443, y: 0.32734776, z: -0.12954564, w: -0.87031424}
+    m_Target: {x: 0.20280904, y: -0.40897045, z: 0.0937537, w: 0.88477224}
     speed: 2
-    m_Value: {x: -0.34440443, y: 0.32734776, z: -0.12954564, w: -0.8703142}
+    m_Value: {x: 0.20280904, y: -0.40897045, z: 0.0937537, w: 0.88477224}
   m_Size:
-    m_Target: 1770.8158
+    m_Target: 1213.0573
     speed: 2
-    m_Value: 1770.8158
+    m_Value: 1213.0573
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -657,10 +657,10 @@ MonoBehaviour:
     height: 377
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
-    m_LastClickedID: 0
-    m_ExpandedIDs: 9efbffff00000000
+    scrollPos: {x: 0, y: 72}
+    m_SelectedIDs: 6c6bffff8ea3ffff2a2fffff
+    m_LastClickedID: -53462
+    m_ExpandedIDs: 9afbffff9cfbffff9efbffff000000006e30000078300000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
