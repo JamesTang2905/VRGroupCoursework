@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/James' World.unity
+- path: Assets/Scenes/ClassRoom.unity
   isLoaded: 1
   isActive: 1
