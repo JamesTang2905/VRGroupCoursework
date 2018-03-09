@@ -93,7 +93,9 @@ public class GlitchEffect : ImageEffectBase {
 
         if(GameObject.Find("Origin/ClosetDoor").GetComponent<closetdoor>().spookyMode)
         {
-            intensity = colorIntensity = flipIntensity = 1;
+            intensity = 0.90f;
+            colorIntensity = 0.10f;
+            flipIntensity = 0.45f;
         }
 	}
 }
