@@ -23,7 +23,11 @@ public class spookymode : MonoBehaviour {
                 a.Play();
 
                 musicChange = true;
-            }
+
+                UnityStandardAssets.Utility.FOVKick m_FovKick = new UnityStandardAssets.Utility.FOVKick();
+                m_FovKick.FOVIncrease = 50.0f;
+
+}
         }
 	}
 }

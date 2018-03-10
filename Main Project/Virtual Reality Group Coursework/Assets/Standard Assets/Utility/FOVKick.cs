@@ -14,7 +14,6 @@ namespace UnityStandardAssets.Utility
         public float TimeToDecrease = 1f;               // the amount of time the field of view will take to return to its original size
         public AnimationCurve IncreaseCurve;
 
-
         public void Setup(Camera camera)
         {
             CheckStatus(camera);
