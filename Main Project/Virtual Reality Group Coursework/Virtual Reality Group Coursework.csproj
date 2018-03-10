@@ -311,7 +311,7 @@
     <Compile Include="Assets\ClassRoom\Scripts\closetdoor.cs" />
     <Compile Include="Assets\ClassRoom\Scripts\GlitchEffect.cs" />
     <Compile Include="Assets\ClassRoom\Scripts\spookymode.cs" />
-    <Compile Include="Assets\James World Assets\Scripts\SwitchLevel.cs" />
+    <Compile Include="Assets\Scripts\SwitchLevel.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\ClassRoom\Basic Metal Texture Pack\readme.txt" />
