@@ -307,9 +307,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\ClassRoom\EntranceAnimation\opendoor.cs" />
+    <Compile Include="Assets\ClassRoom\MindF\CameraPortal.cs" />
     <Compile Include="Assets\ClassRoom\Prototype Materials\ShowcaseMovement.cs" />
     <Compile Include="Assets\ClassRoom\Scripts\closetdoor.cs" />
     <Compile Include="Assets\ClassRoom\Scripts\GlitchEffect.cs" />
+    <Compile Include="Assets\ClassRoom\Scripts\Hallway.cs" />
     <Compile Include="Assets\ClassRoom\Scripts\spookymode.cs" />
     <Compile Include="Assets\Scripts\SwitchLevel.cs" />
   </ItemGroup>
@@ -318,6 +320,8 @@
     <None Include="Assets\ClassRoom\Bench\ReadMe.txt" />
     <None Include="Assets\ClassRoom\Locker\Shaders\VIS_BumpSpec.shader" />
     <None Include="Assets\ClassRoom\Scripts\GlitchShader.shader" />
+    <None Include="Assets\James World Assets\Day-Night Skyboxes\Textures\Readme for Assigning.txt" />
+    <None Include="Assets\James World Assets\Day-Night Skyboxes\readme.txt" />
     <None Include="Assets\Models\JustMonika\Monika Credits.txt" />
     <None Include="Assets\Standard Assets\Cameras\CameraGuidelines.txt" />
     <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
@@ -402,6 +406,11 @@
     <None Include="Assets\Standard Assets\Effects\ToonShading\Shaders\ToonBasicOutline.shader" />
     <None Include="Assets\Standard Assets\Effects\ToonShading\Shaders\ToonLit.shader" />
     <None Include="Assets\Standard Assets\Effects\ToonShading\Shaders\ToonLitOutline.shader" />
+    <None Include="Assets\Standard Assets\Environment\Water (Basic)\Shaders\FXWaterBasic.shader" />
+    <None Include="Assets\Standard Assets\Environment\Water\Water\Shaders\FXWaterPro.shader" />
+    <None Include="Assets\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Advanced.shader" />
+    <None Include="Assets\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Simple.shader" />
+    <None Include="Assets\Standard Assets\Environment\Water\Water4\Shaders\WaterInclude.cginc" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
