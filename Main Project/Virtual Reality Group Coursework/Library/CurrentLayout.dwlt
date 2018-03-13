@@ -70,7 +70,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 492}
   m_MaxSize: {x: 10004, y: 14042}
   vertical: 1
-  controlID: 92
+  controlID: 50
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -164,7 +164,7 @@ MonoBehaviour:
   m_MinSize: {x: 713, y: 492}
   m_MaxSize: {x: 18008, y: 14042}
   vertical: 0
-  controlID: 26
+  controlID: 9
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -420,7 +420,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: ee240000
     m_LastClickedID: 9454
-    m_ExpandedIDs: 00000000d02a0000ee2c0000502f0000ec300000
+    m_ExpandedIDs: 00000000ea2a0000a02d0000da2d00000a2f0000442f0000ac2f0000b22f000084320000843d0000863d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -448,7 +448,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000d02a00001e2d00002c2e000008310000b8420000ba420000bc420000be4200008c440000
+    m_ExpandedIDs: 00000000ea2a0000a02d0000da2d00000a2f0000442f0000ac2f0000b22f000084320000843d0000863d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -613,9 +613,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 256.72766, y: 119.53321, z: 155.4428}
+    m_Target: {x: 250.75612, y: -141.1792, z: 676.15295}
     speed: 2
-    m_Value: {x: 256.72766, y: 119.53321, z: 155.4428}
+    m_Value: {x: 250.75612, y: -141.1792, z: 676.15295}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -639,13 +639,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.012509815, y: 0.98718786, z: -0.12391518, w: -0.099742904}
+    m_Target: {x: 0.26978368, y: 0.105652645, z: -0.02978437, w: 0.9566437}
     speed: 2
-    m_Value: {x: -0.012509815, y: 0.98718786, z: -0.12391518, w: -0.099742904}
+    m_Value: {x: 0.26978368, y: 0.105652645, z: -0.02978437, w: 0.9566437}
   m_Size:
-    m_Target: 278.33688
+    m_Target: 1078.8488
     speed: 2
-    m_Value: 278.33688
+    m_Value: 1078.8488
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -688,26 +688,25 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: aaaffeff9efbffff0000000004350000
+    m_ExpandedIDs: 9efbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Pyramid
-      m_OriginalName: Pyramid
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: -53702
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 0
       m_ClientGUIView: {fileID: 4}
     m_SearchString: 
-  m_ExpandedScenes:
-  - JamesWorld
+  m_ExpandedScenes: []
   m_CurrenRootInstanceID: 0
   m_Locked: 0
   m_CurrentSortingName: TransformSorting

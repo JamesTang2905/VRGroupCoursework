@@ -1967,7 +1967,7 @@ Prefab:
     - target: {fileID: 114230305218972278, guid: f98f2935d0ab38c4abffcc56d6c4a934,
         type: 2}
       propertyPath: m_GravityMultiplier
-      value: 5
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: f98f2935d0ab38c4abffcc56d6c4a934, type: 2}
