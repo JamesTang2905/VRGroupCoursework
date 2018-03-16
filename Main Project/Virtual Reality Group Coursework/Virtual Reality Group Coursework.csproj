@@ -313,7 +313,7 @@
     <Compile Include="Assets\ClassRoom\Scripts\GlitchEffect.cs" />
     <Compile Include="Assets\ClassRoom\Scripts\Hallway.cs" />
     <Compile Include="Assets\ClassRoom\Scripts\spookymode.cs" />
-    <Compile Include="Assets\James World Assets\DoorScript.cs" />
+    <Compile Include="Assets\DoorProject\Scripts\DoorScript.cs" />
     <Compile Include="Assets\Scripts\SwitchLevel.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -6,6 +6,7 @@ TagManager:
   tags:
   - ClosetDoor
   - GameObject
+  - Door
   layers:
   - Default
   - TransparentFX
