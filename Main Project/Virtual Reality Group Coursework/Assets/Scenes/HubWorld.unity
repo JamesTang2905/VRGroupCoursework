@@ -616,7 +616,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e8a4f392058b694698fbba6b8b92267, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  loadLevel: JamesWorld
+  loadLevel: Intro
 --- !u!1 &152843856
 GameObject:
   m_ObjectHideFlags: 0
