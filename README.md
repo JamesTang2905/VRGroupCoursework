@@ -1,17 +1,11 @@
 # VRGroupCoursework
 Group coursework for Virtual Reality.
-Something something anal. How does gitlab work? Isn't the owner of GitLab a cuck anyway??? LOOOOOL PLEASE DON'T DISABLE MY ACCOUNT PLS, I JUST A POOR STUDENT.
 
-Also have a link to the google drive: https://drive.google.com/open?id=1kiutsvacpHXIfvb0VlHE8_E1O-1IAZz3
+This group work is about creating a virtual world and our theme is impossible worlds. You start in the main hub world and you choose which world you wish to explore. Each world is made by a different member of the group. This project was built using unity and every world was created by:
 
-If you need access to the files, please message the group chat with your email address so I can add you to the collaborators list, thank you. Love you all,
-
-James T
-
-PS
-
-For now, just because the unity collab feature sucks ass, just fork a copy/clone this repo and then either make a pull request or send the files to me. So I can merge it into the world. Thanks, <3 James Tang.
-
-владимир владимирович путин сука блять
-
-安德魯斯不會隨意放入俄語句子，這會讓我們陷入麻煩中，讓你啞巴
+Andrius Maciulis
+Beth Quin
+Czar Echavez
+Daniel Hanna
+George Cazacu
+James Tang
