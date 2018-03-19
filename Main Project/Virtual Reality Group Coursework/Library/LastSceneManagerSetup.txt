@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/JamesWorld/JamesWorldPT3.unity
+- path: Assets/Scenes/JamesWorld/JamesWorld.unity
   isLoaded: 1
   isActive: 1

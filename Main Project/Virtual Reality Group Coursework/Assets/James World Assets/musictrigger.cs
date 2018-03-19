@@ -6,6 +6,7 @@ public class musictrigger : MonoBehaviour {
 
     public AudioClip music;
     private AudioSource source;
+    public bool played = false;
 
     // Use this for initialization
     void Start()
@@ -15,9 +16,10 @@ public class musictrigger : MonoBehaviour {
 
     void OnTriggerEnter(Collider other)
     {
-        if (other.gameObject.tag == "Player")
+        if (other.gameObject.tag == "Player" && !played)
         {
             source.Play();
+            played = true;
         }
     }
 }
