@@ -307,6 +307,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\ClassRoom\EntranceAnimation\opendoor.cs" />
+    <Compile Include="Assets\ClassRoom\EscapeDoor\escapescript.cs" />
+    <Compile Include="Assets\ClassRoom\EscapeDoor\escapetrigger.cs" />
     <Compile Include="Assets\ClassRoom\MindF\CameraPortal.cs" />
     <Compile Include="Assets\ClassRoom\Prototype Materials\ShowcaseMovement.cs" />
     <Compile Include="Assets\ClassRoom\Scripts\closetdoor.cs" />
