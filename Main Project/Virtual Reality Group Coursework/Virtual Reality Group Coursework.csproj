@@ -316,6 +316,7 @@
     <Compile Include="Assets\ClassRoom\Scripts\Hallway.cs" />
     <Compile Include="Assets\ClassRoom\Scripts\spookymode.cs" />
     <Compile Include="Assets\DoorProject\Scripts\DoorScript.cs" />
+    <Compile Include="Assets\endhorrors.cs" />
     <Compile Include="Assets\Scripts\audiotrigger.cs" />
     <Compile Include="Assets\Scripts\musictrigger.cs" />
     <Compile Include="Assets\Scripts\Spin.cs" />

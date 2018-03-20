@@ -5004,8 +5004,8 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 198800998}
-  m_LocalRotation: {x: -0.0043188287, y: 0.994636, z: 0.04672852, w: 0.09217908}
-  m_LocalPosition: {x: -138.32822, y: -84.13943, z: 18.580545}
+  m_LocalRotation: {x: -0.025760302, y: 0.96461254, z: 0.10300358, w: 0.24134906}
+  m_LocalPosition: {x: -124.695435, y: -71.73533, z: 20.813316}
   m_LocalScale: {x: 0.07041635, y: 0.71942896, z: 0.46728423}
   m_Children: []
   m_Father: {fileID: 559444295}
@@ -19371,8 +19371,8 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
+  m_Size: {x: 1.5824839, y: 0.9999999, z: 1.2799239}
+  m_Center: {x: 0.11408973, y: 0, z: -0.13490401}
 --- !u!33 &651663037
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -19387,7 +19387,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 651663034}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 67.46, y: 277.47415, z: -734.53}
+  m_LocalPosition: {x: 102.25, y: 318.6, z: -699.9}
   m_LocalScale: {x: 19.975185, y: 19.975178, z: 19.975178}
   m_Children: []
   m_Father: {fileID: 43690439}
@@ -19402,7 +19402,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: a206dc4fcfec6dc4783a4d2c1bd0f008, type: 3}
+  m_audioClip: {fileID: 8300000, guid: abcf8295487fbf04ebf23f41c0cdddc5, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 0.25
   m_Pitch: 1
@@ -19481,10 +19481,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 651663034}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a35301a2f3eca0943b43c74952196de1, type: 3}
+  m_Script: {fileID: 11500000, guid: 9a3dfb22b214db14b97427b26586461f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  music: {fileID: 8300000, guid: a206dc4fcfec6dc4783a4d2c1bd0f008, type: 3}
+  music: {fileID: 8300000, guid: abcf8295487fbf04ebf23f41c0cdddc5, type: 3}
+  played: 0
 --- !u!1 &653473861
 GameObject:
   m_ObjectHideFlags: 0

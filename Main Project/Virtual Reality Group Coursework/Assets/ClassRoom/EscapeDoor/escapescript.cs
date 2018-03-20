@@ -9,13 +9,14 @@ using UnityEngine;
  * Should help with myself if I forget
  * 
  */
- 
+
 public class escapescript : MonoBehaviour
 {
 
     private Animator animator;
     bool doorOpened;
     GameObject trig;
+    GameObject closet;
 
     // Use this for initialization
     void Start()
@@ -24,6 +25,7 @@ public class escapescript : MonoBehaviour
         doorOpened = false;
         animator = GetComponent<Animator>();
         trig = GameObject.Find("Origin/EscapeTrigger");
+        closet = GameObject.Find("Origin/ClosetDoor");
     }
 
     //trigger function

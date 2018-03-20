@@ -802,7 +802,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 180800341}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 13.727999, y: -4743.3, z: -0.6363999}
+  m_LocalPosition: {x: 13.727999, y: -2421, z: -0.6363999}
   m_LocalScale: {x: 16.548485, y: 2.2362416, z: 7.5931067}
   m_Children: []
   m_Father: {fileID: 804227958}
@@ -1360,7 +1360,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Now that's out of the way. have fun
+  m_Text: Sometimes it's best to stay still when there is dialogue in the background
 --- !u!222 &702162642
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2706,6 +2706,101 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: f98f2935d0ab38c4abffcc56d6c4a934, type: 2}
   m_IsPrefabParent: 0
+--- !u!1001 &2062995032
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4625453353940806, guid: 94ff031a8114fba40b19bd1df4bb3115, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 2006.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 4625453353940806, guid: 94ff031a8114fba40b19bd1df4bb3115, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 78.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4625453353940806, guid: 94ff031a8114fba40b19bd1df4bb3115, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 319.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4625453353940806, guid: 94ff031a8114fba40b19bd1df4bb3115, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4625453353940806, guid: 94ff031a8114fba40b19bd1df4bb3115, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4625453353940806, guid: 94ff031a8114fba40b19bd1df4bb3115, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4625453353940806, guid: 94ff031a8114fba40b19bd1df4bb3115, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4625453353940806, guid: 94ff031a8114fba40b19bd1df4bb3115, type: 2}
+      propertyPath: m_RootOrder
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 65660815779302150, guid: 94ff031a8114fba40b19bd1df4bb3115,
+        type: 2}
+      propertyPath: m_Size.z
+      value: 3.673634
+      objectReference: {fileID: 0}
+    - target: {fileID: 65660815779302150, guid: 94ff031a8114fba40b19bd1df4bb3115,
+        type: 2}
+      propertyPath: m_Center.z
+      value: -0.6711691
+      objectReference: {fileID: 0}
+    - target: {fileID: 65660815779302150, guid: 94ff031a8114fba40b19bd1df4bb3115,
+        type: 2}
+      propertyPath: m_Size.x
+      value: 4.5134916
+      objectReference: {fileID: 0}
+    - target: {fileID: 65660815779302150, guid: 94ff031a8114fba40b19bd1df4bb3115,
+        type: 2}
+      propertyPath: m_Center.x
+      value: 0.3044764
+      objectReference: {fileID: 0}
+    - target: {fileID: 1927896691992098, guid: 94ff031a8114fba40b19bd1df4bb3115, type: 2}
+      propertyPath: m_Name
+      value: Audio one clip trigger (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 82171253984652798, guid: 94ff031a8114fba40b19bd1df4bb3115,
+        type: 2}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 213fbd147d522914491115ad63575cb5, type: 3}
+    - target: {fileID: 82171253984652798, guid: 94ff031a8114fba40b19bd1df4bb3115,
+        type: 2}
+      propertyPath: Loop
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 114396327396340502, guid: 94ff031a8114fba40b19bd1df4bb3115, type: 2}
+  m_ParentPrefab: {fileID: 100100000, guid: 94ff031a8114fba40b19bd1df4bb3115, type: 2}
+  m_IsPrefabParent: 0
+--- !u!1 &2062995033 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 1927896691992098, guid: 94ff031a8114fba40b19bd1df4bb3115,
+    type: 2}
+  m_PrefabInternal: {fileID: 2062995032}
+--- !u!114 &2062995034
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2062995033}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a3dfb22b214db14b97427b26586461f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  music: {fileID: 8300000, guid: 213fbd147d522914491115ad63575cb5, type: 3}
+  played: 0
 --- !u!1 &2109934226
 GameObject:
   m_ObjectHideFlags: 0

@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/HubWorld.unity
     guid: b738cf1e47116ef4ea1266e7e9556a48
   - enabled: 1
+    path: Assets/Scenes/JamesWorld/Intro.unity
+    guid: 9e3b16c8502ef8a40b66d89f6db85f65
+  - enabled: 1
     path: Assets/Scenes/JamesWorld/JamesWorld.unity
     guid: dba6f0302e98ed74182c5b972f7a9c6f
   - enabled: 1
@@ -17,6 +20,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/JamesWorld/JamesWorldPT3.unity
     guid: 6c29e8bb18d04a8438ea670e6757c051
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/ClassRoom.unity
     guid: 66f393d6140fcf949a4c0c60bef4870f
+  - enabled: 1
+    path: Assets/Scenes/ClassRoom/ClassRoom.unity
+    guid: bfafbaa2cc6b29c48ae8134604065af0
+  - enabled: 1
+    path: Assets/Scenes/ClassRoom/end.unity
+    guid: a6e90607fa443a34ea434c7fae49a6df
