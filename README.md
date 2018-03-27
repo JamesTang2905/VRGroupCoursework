@@ -5,4 +5,6 @@ This group work is about creating a virtual world and our theme is impossible wo
 
 Andrius Maciulis, Beth Quin, Czar Echavez, Daniel Hanna, George Cazacu, James Tang
 
+Check out the releases sections at the top if you wish to play this world (If you don't have Unity installed)
+
 (However we are unable to show the final commit since that commit exceeds the GitHub limit of 100MB)
